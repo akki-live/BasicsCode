@@ -28,3 +28,4 @@ if type(output) == list:
          s=s+1
 else:
     print(output)
+    print(output)
